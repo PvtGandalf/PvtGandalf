@@ -44,9 +44,10 @@ Hey internet people, my name is Jaiden and I'm glad you found my Github Page! I'
 </a>
 
 ### View Some of My Favorite Projects
-<a href="https://github.com/PvtGandalf/pvtgandalf.github.io">
-  <img src="https://img.shields.io/badge/Github-4183C4?style=for-the-badge&logo=github&logoColor=white">
-</a>
+* <a href="https://main.d1c9vulyxwkdj2.amplifyapp.com/">Marvel Comic Wiki</a> - Interactive UI Connected to Marvel's Developer API
+* <a href="http://helpingmyfriend.com/">Helping My Friend</a> - Support Management Platform for People in Need
+* <a href="https://main.d3s3bgzi9y4jfb.amplifyapp.com/">Whole Body Health</a> - Business Website Built for a Client
+* <a href="https://www.figma.com/proto/FdUvNWfBklduvbglLsstXJ/Beaver-Cocktails?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2">Beaver Cocktails</a> - Figma Mockup for a Cocktail Creator
 
 
 <br><br/>
