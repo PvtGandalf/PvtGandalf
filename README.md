@@ -18,7 +18,7 @@ Hey internet people, my name is Jaiden and I'm glad you found my Github Page! I'
   <img src="https://img.shields.io/badge/Dev-0f171d?style=for-the-badge&logo=dev.to&logoColor=white">
 </a>
 
-### Top Frameworks
+### Top Technologies
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </a>
