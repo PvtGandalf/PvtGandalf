@@ -6,7 +6,7 @@ Hey internet people, my name is Jaiden and I'm glad you found my Github Page! I'
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
 
-<a href="https://www.linkedin.com/in/jaiden-hodson-4a4b70227/">
+<a href="https://www.linkedin.com/in/jaiden-hodson/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -49,8 +49,8 @@ Hey internet people, my name is Jaiden and I'm glad you found my Github Page! I'
 
 ### View Some of My Favorite Projects
 * <a href="https://marvelcomicwiki.com">Marvel Comic Wiki</a> - Interactive UI Connected to Marvel's Developer API
-* <a href="http://helpingmyfriend.com/">Helping My Friend</a> - Support Management Platform for People in Need
-* <a href="https://main.d3s3bgzi9y4jfb.amplifyapp.com/">Whole Body Health</a> - Business Website Built for a Client
+* <a href="https://helpingmyfriend.com">Helping My Friend</a> - Support Management Platform for People in Need
+* <a href="https://www.wholebodyhealthlebanon.com">Whole Body Health</a> - Business Website Built for a Client
 * <a href="https://www.figma.com/proto/FdUvNWfBklduvbglLsstXJ/Beaver-Cocktails?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2">Beaver Cocktails</a> - Figma Mockup for a Cocktail Creator
 
 
